@@ -74,6 +74,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 ### Tools
  - [SnowReport](https://github.com/rtempleton/SnowReport) Snowflake security inspector
  - [Snowflake Inspector](http://snowflakeinspector.hashmapinc.com) Visualize your security 
+ - [SnowAlert](https://github.com/snowflakedb/SnowAlert) A framework for security monitoring
 
 
 
