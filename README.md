@@ -70,6 +70,11 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - Build a Recommendation Engine with AWS SageMaker and Snowflake
   - [How-To Guide](https://guides.snowflake.com/guide/recommendation_engine_aws_sagemaker/)
   - [Source Code](https://github.com/Snowflake-Labs/sfguide-recommender-pipeline)
+  
+### Tools
+ - [SnowReport](https://github.com/rtempleton/SnowReport) Snowflake security inspector
+ - [Snowflake Inspector](http://snowflakeinspector.hashmapinc.com) Visualize your security 
+
 
 
 ## Contribute
